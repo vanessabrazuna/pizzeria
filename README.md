@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">Deploy <a href="" target="_blank">aqui!</a></p>
+<p align="center">Deploy <a href="https://vanessabrazuna.github.io/pizzeria/" target="_blank">aqui!</a></p>
 
 <br>
 
