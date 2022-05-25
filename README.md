@@ -2,25 +2,30 @@
 
 <br>
 
-<p align="center">Deploy <a href="https://vanessabrazuna.github.io/pizzeria/" target="_blank">aqui!</a></p>
+<p align="center">Deploy <a href="https://vanessabrazuna.github.io/pizzeria/" target="_blank">here!</a></p>
 
 <br>
+
+<p align="center">
+  <img alt="Pizzeria" src="https://user-images.githubusercontent.com/73675022/170384116-fa3dfc1d-3c4c-4cd5-8abb-e12f25b389a5.png" width="90%">
+</p>
+
 
 <hr>
 
 <br>
 
-## Sobre o Projeto
+## About the project
 
 <br>
 
-<p>Projeto de uma pizzaria, sendo um site responsivo com layouts flexiveis de acordo com o dispositivo acessado. Sendo ele smartphone, tablet ou desktop.</p>
+<p>Pizzeria project, being a responsive website with flexible layouts according to the device accessed. Whether smartphone, tablet or desktop.</p>
 
-<p>Criado na plataforma B7Web, referente às aulas do curso de JavaScript.</p>
+<p>Created on the B7Web platform, referring to JavaScript course classes.</p>
 
 <br>
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 <br>
 
